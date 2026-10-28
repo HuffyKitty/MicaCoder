@@ -1,0 +1,2 @@
+# Runtime metadata is maintained in pyproject.toml.
+-e .
